@@ -71,11 +71,11 @@
   - RWD 響應式網頁 手機尺寸開發
   - edm 設計
   - 粉絲團經營
-  - 套用 jQuery 函式庫
+  - jQuery 函式庫
 
-- <a href="https://codefreeman.github.io/personalWebsite/" target="_blank">個人網站</a>
-
-  - 套用 jQuery 函式庫
+- <a href="http://weather.fstudio.io/" target="_blank">天氣網站</a>
+  - 使用 ajax 介接 api
+  - jQuery 函式庫
 
 - 響應式網頁切版--六角西餐廳 <a href="https://codefreeman.github.io/hex-RWD/" target="_blank">首頁</a>、<a href="https://codefreeman.github.io/hex-RWD/cart.html" target="_blank">購物車</a>、<a href="https://codefreeman.github.io/hex-RWD/registerLogin.html" target="_blank">註冊/登入</a>
 
