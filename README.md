@@ -40,7 +40,7 @@
 
 ## Training
 
-### 自修線上課程 JavaScript 2016年／7月 ～ 2018年／12月
+### 自修課程 JavaScript 2016年／7月 ～ 2018年／12月
 * 六角學院 - JavaScript 入門篇 - 學徒的試煉
 * 飛肯設計學院 - 前端工程師養成班
 * wesbos - js30
@@ -60,7 +60,7 @@
 ### JavaScript/jQuery/JavaScript library
 
 * 套用 jQuery 函式庫
-* 使用 JavaScript library 並修改其 config  / particles.js、fullPage.js、ECharts
+* 使用 JavaScript library 修改 configure(particles.js、fullPage.js、ECharts)
 * 瞭解 JSON、第三方 API 串聯網頁的方式
 * 使用 AJAX 與資料庫進行基礎串聯
 * 瞭解原生 JavaScript(es6) 語法
@@ -69,39 +69,41 @@
 
 * 使用 Git 在 GitHub 上進行版本管理(git add . 、 git commit -m "commit detial what's new"、git branch、git push/pull、git fetch...etc)
 
-## Works
+## Work Project
 
-<a href="https://eyesocial.insighteye.com.tw/" target="_blank">社群觀測工具包</a>
+[社群觀測工具包](https://eyesocial.insighteye.com.tw/)
 * HTML5 語意化結構
 * RWD 響應式網頁 CSS3 Media Queries 設定平板、手機
 * 舊程式優化，重新整理拆分成不同檔案（SASS）將檔案減少至一半(110kb > 55kb)
 
-<a href="https://www.facebook.com/Local.LifeEZ/" target="_blank">LO叩 - 在地萬事通</a>
+[LO叩 - 在地萬事通](https://www.facebook.com/Local.LifeEZ/)
 * HTML5 語意化結構
 * 針對手機尺寸開發
 * SASS + compass 巢狀架構，增加開發速度
 
-<a href="http://weather.fstudio.io/" target="_blank">天氣網站</a>
-* 使用 ajax 介接 api
-* jQuery 函式庫
+## Side Project
 
-<a href="http://bmi.fstudio.io/" target="_blank">bmi</a>
-* 使用原生 js 開發
-* 使用 localStroge 儲存使用者資訊，並可以刪除紀錄
-
-<a href="http://ktravel.fstudio.io/" target="_blank">高雄旅遊資訊網</a>
-* 用原生 js 開發
-* 使用 ajax 介接 api
-
-<a href="https://js30day.fstudio.io/" target="_blank">js30</a>
-* 從[wesbos](https://github.com/wesbos/JavaScript30) fork 過來的專案, 開始學習js30
-* 透過三十堂實作範例的學習，對於vanilla js 有更深入的了解。
-
-靜態頁面 - 六角西餐廳
-[首頁](https://codefreeman.github.io/hex-RWD/), [購物車](https://codefreeman.github.io/hex-RWD/cart.html), [註冊/登入](https://codefreeman.github.io/hex-RWD/registerLogin.html)
+[六角西餐廳-首頁](https://codefreeman.github.io/hex-RWD/), [六角西餐廳-購物車](https://codefreeman.github.io/hex-RWD/cart.html), [六角西餐廳-註冊/登入](https://codefreeman.github.io/hex-RWD/registerLogin.html)
 * HTML5 語意化結構
 * RWD 響應式網頁 CSS3 Media Queries 設定平板、手機
 * SASS + compass 巢狀架構，增加開發速度
+
+[天氣網站](http://weather.fstudio.io/)
+* 使用 ajax 介接 api
+* jQuery 函式庫
+
+[bmi](http://bmi.fstudio.io/)
+* 使用原生 js 開發
+* 使用 localStroge 儲存使用者資訊，並可以刪除紀錄
+
+[高雄旅遊資訊網](http://ktravel.fstudio.io/)
+* 用原生 js 開發
+* 使用 ajax 介接 api
+
+[js30](https://js30day.fstudio.io/)
+* 從[wesbos](https://github.com/wesbos/JavaScript30) fork 過來的專案, 開始學習js30
+* 透過三十堂實作範例的學習，對於vanilla js 有更深入的了解。
+
 
 ## Introduction
 
