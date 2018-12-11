@@ -1,15 +1,15 @@
 # Information
 
-  const chiAnYang = {
-    chineseName: "楊啟鞍",
-    workLocation: "台北市",
-    education:{
-      university:"明志科技大學",
-      department:"工業設計系"
-    },
-    email: "freemanartstudiotw@gmail.com",
-    phone: "+886 988-705647"
-  }
+    const chiAnYang = {
+      chineseName: "楊啟鞍",
+      workLocation: "台北市",
+      education:{
+        university:"明志科技大學",
+        department:"工業設計系"
+      },
+      email: "freemanartstudiotw@gmail.com",
+      phone: "+886 988-705647"
+    }
 
 
 ## Career
