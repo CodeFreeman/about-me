@@ -18,7 +18,7 @@
 * 前端程式規劃及撰寫HTML， CSS(SCSS)，RWD 響應式之介面設計，有使用Bootstrap 開發專案
 * 套用 jQuery 函式庫，使用及修改現成 JavaScript library configure(particles.js、fullPage.js、ECharts)
 * 有與後端工程師溝通合作的經驗，透過介接API 開發網頁前端畫面
-* 曾有內部前端教育訓練經驗
+* 曾有內部前端教經驗
 * 經歷專案 [eyeSocial](https://eyesocial.insighteye.com.tw/)、urbanScoat(建置於廠商內部系統無法展示)、[LO叩](https://loop.ap.ngrok.io/users)
 
 ### 網路行銷企劃人員／金冠安全帽商號 2014年／10月 ～ 2015年／4月
@@ -39,12 +39,14 @@
 
 ## Training
 
-### 自修課程 JavaScript 2016年／7月 ～ 2018年／12月
-* 六角學院 - JavaScript 入門篇 - 學徒的試煉
-* 飛肯設計學院 - 前端工程師養成班
-* wesbos - js30
+### 自修課程 JavaScript
+* 六角學院 / JavaScript 入門篇 - 學徒的試煉
+* uxabc / 網頁前端開發
+* 飛肯設計學院 / 前端工程師養成班
+* wesbos / js30
+
 ### Big Data 巨量分析養成班/中壢資策會 2015年/6月 ～ 2015年/12月
-* 為了替自己增加競爭力，前往中壢資策會學習大數據，卻因為從設計切入網頁開發讓我感到親切，而投入前端的學習
+* 結束網路行銷企劃人員的工作之後，希望能結合當下最熱門的大數據，前往中壢資策會學習大數據，其中有關於基本網頁設計的課，引起了我對網頁開發的興趣，並且從設計相關的角度去切入網頁設計，更能得心應手，因此而投入前端開發
 
 ## Skills
 
@@ -101,6 +103,7 @@
 [js30](https://js30day.fstudio.io/)
 * 從[wesbos](https://github.com/wesbos/JavaScript30) fork 過來的專案, 開始學習js30
 * 透過三十堂實作範例的學習，對於vanilla js 有更深入的了解
+
 
 ## Introduction
 
