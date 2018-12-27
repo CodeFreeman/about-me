@@ -52,10 +52,10 @@
 
 ### HTML/CSS(SCSS)/RWD/CSS Framework
 
-1. HTML 撰寫網頁架構刻出基本版型、 HTML5 加強語意化方便搜尋引擎爬取網站
-2. CSS 將HTML的網頁架構進行美化、Sass + Compass 將 CSS 拆分成更細的區塊
-3. RWD 響應式設計 Media Queries 在不同尺寸及載具呈現不同的樣式排版
-4. 用 CSS Framework 加速開發時間，並且有能力修改原始樣式
+* HTML 撰寫網頁架構刻出基本版型、 HTML5 加強語意化方便搜尋引擎爬取網站
+* CSS 將HTML的網頁架構進行美化、Sass + Compass 將 CSS 拆分成更細的區塊
+* RWD 響應式設計 Media Queries 在不同尺寸及載具呈現不同的樣式排版
+* 用 CSS Framework 加速開發時間，並且有能力修改原始樣式
 
 ### JavaScript/jQuery/JavaScript library
 
