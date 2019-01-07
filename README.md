@@ -19,7 +19,7 @@
 * 套用 jQuery 函式庫，使用及修改現成 JavaScript library configure(particles.js、fullPage.js、ECharts)
 * 有與後端工程師溝通合作的經驗，透過介接API 開發網頁前端畫面
 * 曾有內部前端教經驗
-* 經歷專案 [eyeSocial](https://eyesocial.insighteye.com.tw/)、urbanScoat(建置於廠商內部系統無法展示)、[LO叩](https://loop.ap.ngrok.io/users)
+* 經歷專案 [eyeSocial](https://eyesocial.insighteye.com.tw/)、urbanScoat(建置於廠商內部系統無法展示)、[LO叩](https://www.facebook.com/Local.LifeEZ/)
 
 ### 網路行銷企劃人員／金冠安全帽商號 2014年／10月 ～ 2015年／4月
 * 負責網站、網拍後台管理、拍照、修圖、商品上架、網路賣場進出貨
